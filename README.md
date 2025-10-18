@@ -2,7 +2,7 @@
 
 **Text file example (see txt.txt):**
 
-```
+```{txt}
 ATG
 GGA
 CCT
