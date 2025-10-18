@@ -2,18 +2,18 @@
 
 **Text file example (see txt.txt):**
 
-'''
+```
 ATG
 GGA
 CCT
 TTA
 TAT
-'''
+```
 
 **Usage:**
 
-'''
+```
 python main.py kmer-file.txt
-'''
+```
 
 Currently returns nodes in order of contiguous sequence and plots graph. 
