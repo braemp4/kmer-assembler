@@ -1,4 +1,4 @@
-**Takes text file of kmers and assembles genome sequence using de bruijn graph + dfs** 
+### Takes text file of kmers and assembles genome sequence using de bruijn graph + dfs
 
 **Text file example (see txt.txt):**
 
