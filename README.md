@@ -12,7 +12,7 @@ TAT
 
 **Usage:**
 
-```
+```{bash}
 python main.py kmer-file.txt
 ```
 
